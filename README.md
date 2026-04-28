@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-"# OptionPricer" 
-"# OptionPricer" 
-=======
 # Black-Scholes Option Pricer 
 Call/Put option pricing and heatmap using the Black-Scholes formula. 
 
@@ -25,4 +21,4 @@ Each cell in the heatmap represents the price you would pay today for a specific
 - **X-axis**: Days to expiration (time remaining on the contract)
 - **Y-axis**: Strike price as percentage of spot price (moneyness)
 - **Color intensity**: Option premium (red = expensive, green = cheap)
->>>>>>> 6cf744c28543ac8d56445514e3ec48f09b8a577d
+
