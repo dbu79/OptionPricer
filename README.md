@@ -21,4 +21,3 @@ Each cell in the heatmap represents the price you would pay today for a specific
 - **X-axis**: Days to expiration (time remaining on the contract)
 - **Y-axis**: Strike price as percentage of spot price (moneyness)
 - **Color intensity**: Option premium (red = expensive, green = cheap)
-- **White dashed line**: At-the-money (ATM) strike where strike = spot price
